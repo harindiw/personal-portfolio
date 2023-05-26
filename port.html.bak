@@ -123,19 +123,11 @@
                 </div>
 			</div>
 			<div class="work">
-                <img src="images/work-2.png">
+                <img src="images/work-3.png">
 			    <div class="layer">
                         <h3>W3School Redesign </h3>
                         <p>A redesign of W3School website login process.</p>
                         <a href="https://drive.google.com/file/d/1xchR8SnVWZfTiPa3_iI8GHZAOijlCpMJ/view?usp=sharing"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                </div>
-			</div>
-			<div class="work">
-                <img src="images/work-3.png">
-			    <div class="layer">
-                        <h3>Tourism Website</h3>
-                        <p>A website of tourism in Sri Lanka with  lot of areas where users can gain lots of knowledge.</p>
-                        <a href="https://drive.google.com/drive/folders/1LseO_thtXx0avFfpgMvW9EmnsKFc2GGZ?usp=sharing"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
 			</div>
 		</div>
