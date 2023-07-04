@@ -14,7 +14,7 @@
 <div id = "header">
 	<div class= "container">
 		<nav>
-			<img src="images/logo1.png" class="logo">
+			<img src="images/logo11.png" class="logo">
 			<ul id="sidemenu">
 				<li><a href="#header"> Home</a></li>
 				<li><a href="#about"> About</a></li>
@@ -125,9 +125,9 @@
 			<div class="work">
                 <img src="images/work-3.png">
 			    <div class="layer">
-                        <h3>Case Study Page Redesign </h3>
-                        <p>A redesign of Case study web page.</p>
-                        <a href="https://www.figma.com/file/A3DsrZSOdt9EzUSwpRwsrH/New-Case-Study?type=design&node-id=0%3A1&t=2EO3PZ6WeDxCgcVY-1"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        <h3>Restuarant App</h3>
+                        <p>An app which is about a restaurant called Bella and its meals, orders.</p>
+                        <a href="https://www.figma.com/file/egKS4j08kAda3abpX1OIQi/Restaurant?node-id=0%3A1&t=K5aa61ZVntYDBO00-1"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
 			</div>
 		</div>
