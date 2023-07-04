@@ -5,6 +5,7 @@
 	<meta http-equiv = "X-UA-Compatible" content = "IE = edge">
 	<meta name = "viewport" content ="width=device-width, initial-scale = 1.0">
 	<title>Personal Portfolio Website</Title>
+	<link rel="icon" href="../images/logo11.png" type="image/png">
 	<link rel= "stylesheet" href= "style.css">
 	<script src="https://kit.fontawesome.com/588ba1f5ea.js" crossorigin="anonymous"></script>
 	
@@ -85,15 +86,15 @@
 				<div>
 					<i class="fa-solid fa-crop-simple"></i>
 					<h2>UI/UX Design</h2>
-					<P>The aesthetic components that allow users to engage with 
+					<P><b>The aesthetic components that allow users to engage with 
 					a product, including as buttons, icons, menu bars, typography, 
-					colors, and more, are referred to as user interface (UI) design.</p>
+					colors, and more, are referred to as user interface (UI) design.</b></p>
 				</div>
 				<div>
 					<i class="fa-solid fa-code"></i>
 					<h2>Web Development  </h2>
-					<P>The development of websites and pages to reflect a brand, 
-					provide information, and guarantee a positive user experience.</p>
+					<P><b>The development of websites and pages to reflect a brand, 
+					provide information, and guarantee a positive user experience.</b></p>
 				</div>
 			</div>
 		
