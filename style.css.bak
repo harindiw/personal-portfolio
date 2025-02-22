@@ -339,14 +339,17 @@ nav ul li a:hover::after{
     transform: translateY(-5px);
 }
 
-.social-icons img{
+.social-icons img, a:hover{
 	width: 30px;
 	height: 30px;
+	color: #ffd700;
+    transform: translateY(-5px);
 }
 
 .btn.btn2{
     display: inline-block;
     background: #ffd700;
+	color: #000000;
 }
 
 .contact-right form{
